@@ -8,4 +8,5 @@
 
 如果你有什么问题，Please open an issues
 
-
+npm run build
+dist/
